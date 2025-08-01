@@ -21,7 +21,7 @@ A Node.js web application that lets users report and view **paranormal sightings
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/from-the-other-side.git
+git clone https://github.com/lioipu/from-the-other-side.git
 cd from-the-other-side
 ```
 
